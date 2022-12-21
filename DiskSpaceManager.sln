@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiskSpaceManager", "DiskSpaceManager.csproj", "{92039E18-DDD2-4765-85F6-2FFA858FF8C0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{92039E18-DDD2-4765-85F6-2FFA858FF8C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92039E18-DDD2-4765-85F6-2FFA858FF8C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92039E18-DDD2-4765-85F6-2FFA858FF8C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92039E18-DDD2-4765-85F6-2FFA858FF8C0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
