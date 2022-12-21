@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projects\\DiskSpaceManager\\DiskSpaceManager.csproj": {}
+    "C:\\Projects\\DiskSpaceManager\\DiskSpaceManager\\DiskSpaceManager.csproj": {}
   },
   "projects": {
-    "C:\\Projects\\DiskSpaceManager\\DiskSpaceManager.csproj": {
+    "C:\\Projects\\DiskSpaceManager\\DiskSpaceManager\\DiskSpaceManager.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projects\\DiskSpaceManager\\DiskSpaceManager.csproj",
+        "projectUniqueName": "C:\\Projects\\DiskSpaceManager\\DiskSpaceManager\\DiskSpaceManager.csproj",
         "projectName": "DiskSpaceManager",
-        "projectPath": "C:\\Projects\\DiskSpaceManager\\DiskSpaceManager.csproj",
+        "projectPath": "C:\\Projects\\DiskSpaceManager\\DiskSpaceManager\\DiskSpaceManager.csproj",
         "packagesPath": "C:\\Users\\kiril\\.nuget\\packages\\",
-        "outputPath": "C:\\Projects\\DiskSpaceManager\\obj\\",
+        "outputPath": "C:\\Projects\\DiskSpaceManager\\DiskSpaceManager\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kiril\\AppData\\Roaming\\NuGet\\NuGet.Config",

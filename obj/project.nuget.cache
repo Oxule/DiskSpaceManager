@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "yYpeaeAS4YMm3CRKq0m13xLQBJNvQMj6o/VIIlrMigoofDEHxuJaysxqGygx0bQ6e6m7iMB9w2ADP/inVIZOyQ==",
+  "dgSpecHash": "HFJPR/iP596wMQ8Ar3DtrWq3evytRW05iimZXdvfSZ+ymwpOkgMjMkNkVxnSrDI/Ck6O+GGLdQ1g3t/uz9EObg==",
   "success": true,
-  "projectFilePath": "C:\\Projects\\DiskSpaceManager\\DiskSpaceManager.csproj",
+  "projectFilePath": "C:\\Projects\\DiskSpaceManager\\DiskSpaceManager\\DiskSpaceManager.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kiril\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
   ],
